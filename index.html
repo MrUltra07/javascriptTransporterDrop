@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="assets/css/main.css">
+    <title>DragDrop Area</title>
+</head>
+<body>
+    <div class="main-container">
+        <header class="header">
+            <div class="top-buttons">
+                <span class="top-button"><i class="fa-solid fa-bars"></i></span>
+                <span class="top-button"><i class="fa-solid fa-file-pdf"></i></span>
+            </div>
+            <div class="side-bar"><!-- Side Bar Code --></div>
+        </header>
+        <section class="drag-drop-area" id="drag-drop-area">
+            <div id="transporter-div"></div>
+
+            <section class="drag-drop-container">
+                <div class="options-container">
+                    <div class="drag-drop-cell-active drag-drop-cell-option drag-drop-cell">
+                        <div class="drag-drop-cell-texts">
+                            <div class="drag-drop-cell-active-text drag-drop-cell-text">Option - 1</div>
+                        </div>
+                    </div>
+                    <div class="drag-drop-cell-active drag-drop-cell-option drag-drop-cell">
+                        <div class="drag-drop-cell-texts">
+                            <div class="drag-drop-cell-active-text drag-drop-cell-text">Option -2</div>
+                        </div>
+                    </div>
+                    <div class="drag-drop-cell-active drag-drop-cell-option drag-drop-cell">
+                        <div class="drag-drop-cell-texts">
+                            <div class="drag-drop-cell-active-text drag-drop-cell-text">Option -3</div>
+                        </div>
+                    </div>
+                    <div class="drag-drop-cell-active drag-drop-cell-option drag-drop-cell">
+                        <div class="drag-drop-cell-texts">
+                            <div class="drag-drop-cell-active-text drag-drop-cell-text">Option -4</div>
+                        </div>
+                    </div>
+                    <div class="drag-drop-cell-active drag-drop-cell-option drag-drop-cell">
+                        <div class="drag-drop-cell-texts">
+                            <div class="drag-drop-cell-active-text drag-drop-cell-text">Option -5</div>
+                        </div>
+                    </div>
+                    <div class="drag-drop-cell-active drag-drop-cell-option drag-drop-cell" id="manyak";>
+                        <div class="drag-drop-cell-texts">
+                            <div class="drag-drop-cell-active-text drag-drop-cell-text">Option -6</div>
+                        </div>
+                    </div>
+                    <div class="drag-drop-cell-active drag-drop-cell-option drag-drop-cell">
+                        <div class="drag-drop-cell-texts">
+                            <div class="drag-drop-cell-active-text drag-drop-cell-text">Option -7</div>
+                        </div>
+                    </div>
+                    
+                </div>
+
+                <div class="drop-area-container" id="drop-area-container">
+                    <!--<div class="drop-area-titles">
+                        <div class="drop-area-title drag-drop-cell">
+                            Column - 1
+                        </div>
+                    </div>
+                    <section class="drag-drop-area-columns">
+                        <div class="drop-area-column">
+                            <div class="drag-drop-cell-free drag-drop-cell">
+                                <div class="drag-drop-cell-texts">
+                                    <div class="drag-drop-cell-free-text drag-drop-cell-text">FREE</div>
+                                    <div class="drag-drop-cell-active-text drag-drop-cell-text">Column - 5</div>
+                                    <div class="drag-drop-cell-hover-text drag-drop-cell-text">Click for put</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>-->
+                    
+                </div>
+                
+            </section>
+            
+
+        </section>
+    </div>
+</body>
+<script src="./assets/js/putToCell.js"></script>
+<script src="./assets/js/transporter.js"></script>
+<script src="./assets/js/createTable.js"></script>
+<script src="./assets/js/selecter.js"></script>
+<script src="./assets/js/setHover.js"></script>
+<script src="./assets/js/main.js"></script>
+</html>

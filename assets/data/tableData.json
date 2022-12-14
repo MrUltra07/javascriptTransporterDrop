@@ -1,0 +1,697 @@
+{
+    "id": 1,
+    "columnsTitle": [
+        "Pazartesi",
+        "Salı",
+        "Çarşamba",
+        "Perşembe",
+        "Cuma",
+        "Cumartesi"
+    ],
+    "tableData": [
+        [
+            {
+                "cellId": 0,
+                "dateDay": 1,
+                "dateTime": "06.00 - 07.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 1,
+                "dateDay": 1,
+                "dateTime": "07.00 - 08.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 2,
+                "dateDay": 1,
+                "dateTime": "08.00 - 09.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 3,
+                "dateDay": 1,
+                "dateTime": "09.00 - 10.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 4,
+                "dateDay": 1,
+                "dateTime": "10.00 - 11.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 5,
+                "dateDay": 1,
+                "dateTime": "11.00 - 12.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 6,
+                "dateDay": 1,
+                "dateTime": "12.00 - 13.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 7,
+                "dateDay": 1,
+                "dateTime": "13.00 - 14.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 8,
+                "dateDay": 1,
+                "dateTime": "14.00 - 15.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 9,
+                "dateDay": 1,
+                "dateTime": "15.00 - 16.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 10,
+                "dateDay": 1,
+                "dateTime": "17.00 - 18.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 11,
+                "dateDay": 1,
+                "dateTime": "18.00 - 19.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 12,
+                "dateDay": 1,
+                "dateTime": "19.00 - 20.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 13,
+                "dateDay": 1,
+                "dateTime": "20.00 - 21.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 14,
+                "dateDay": 1,
+                "dateTime": "21.00 - 22.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 15,
+                "dateDay": 1,
+                "dateTime": "22.00 - 23.00",
+                "cellDataId": null,
+                "CellData": ""
+            }
+        ],
+        [
+            {
+                "cellId": 16,
+                "dateDay": 2,
+                "dateTime": "06.00 - 07.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 17,
+                "dateDay": 2,
+                "dateTime": "07.00 - 08.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 18,
+                "dateDay": 2,
+                "dateTime": "08.00 - 09.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 19,
+                "dateDay": 2,
+                "dateTime": "09.00 - 10.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 20,
+                "dateDay": 2,
+                "dateTime": "10.00 - 11.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 21,
+                "dateDay": 2,
+                "dateTime": "11.00 - 12.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 22,
+                "dateDay": 2,
+                "dateTime": "12.00 - 13.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 23,
+                "dateDay": 2,
+                "dateTime": "13.00 - 14.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 24,
+                "dateDay": 2,
+                "dateTime": "14.00 - 15.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 25,
+                "dateDay": 2,
+                "dateTime": "15.00 - 16.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 26,
+                "dateDay": 2,
+                "dateTime": "17.00 - 18.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 27,
+                "dateDay": 2,
+                "dateTime": "18.00 - 19.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 28,
+                "dateDay": 2,
+                "dateTime": "19.00 - 20.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 29,
+                "dateDay": 2,
+                "dateTime": "20.00 - 21.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 30,
+                "dateDay": 2,
+                "dateTime": "21.00 - 22.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 31,
+                "dateDay": 2,
+                "dateTime": "22.00 - 23.00",
+                "cellDataId": null,
+                "CellData": ""
+            }
+        ],
+        [
+            {
+                "cellId": 32,
+                "dateDay": 3,
+                "dateTime": "06.00 - 07.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 33,
+                "dateDay": 3,
+                "dateTime": "07.00 - 08.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 34,
+                "dateDay": 3,
+                "dateTime": "08.00 - 09.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 35,
+                "dateDay": 3,
+                "dateTime": "09.00 - 10.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 36,
+                "dateDay": 3,
+                "dateTime": "10.00 - 11.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 37,
+                "dateDay": 3,
+                "dateTime": "11.00 - 12.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 38,
+                "dateDay": 3,
+                "dateTime": "12.00 - 13.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 39,
+                "dateDay": 3,
+                "dateTime": "13.00 - 14.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 40,
+                "dateDay": 3,
+                "dateTime": "14.00 - 15.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 41,
+                "dateDay": 3,
+                "dateTime": "15.00 - 16.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 42,
+                "dateDay": 3,
+                "dateTime": "17.00 - 18.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 43,
+                "dateDay": 3,
+                "dateTime": "18.00 - 19.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 44,
+                "dateDay": 3,
+                "dateTime": "19.00 - 20.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 45,
+                "dateDay": 3,
+                "dateTime": "20.00 - 21.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 46,
+                "dateDay": 3,
+                "dateTime": "21.00 - 22.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 47,
+                "dateDay": 3,
+                "dateTime": "22.00 - 23.00",
+                "cellDataId": null,
+                "CellData": ""
+            }
+        ],
+        [
+            {
+                "cellId": 48,
+                "dateDay": 3,
+                "dateTime": "06.00 - 07.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 49,
+                "dateDay": 3,
+                "dateTime": "07.00 - 08.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 50,
+                "dateDay": 3,
+                "dateTime": "08.00 - 09.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 51,
+                "dateDay": 3,
+                "dateTime": "09.00 - 10.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 52,
+                "dateDay": 3,
+                "dateTime": "10.00 - 11.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 53,
+                "dateDay": 3,
+                "dateTime": "11.00 - 12.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 54,
+                "dateDay": 3,
+                "dateTime": "12.00 - 13.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 55,
+                "dateDay": 3,
+                "dateTime": "13.00 - 14.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 56,
+                "dateDay": 3,
+                "dateTime": "14.00 - 15.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 57,
+                "dateDay": 3,
+                "dateTime": "15.00 - 16.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 58,
+                "dateDay": 3,
+                "dateTime": "17.00 - 18.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 59,
+                "dateDay": 3,
+                "dateTime": "18.00 - 19.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 60,
+                "dateDay": 3,
+                "dateTime": "19.00 - 20.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 61,
+                "dateDay": 3,
+                "dateTime": "20.00 - 21.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 62,
+                "dateDay": 3,
+                "dateTime": "21.00 - 22.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 63,
+                "dateDay": 3,
+                "dateTime": "22.00 - 23.00",
+                "cellDataId": null,
+                "CellData": ""
+            }
+        ],
+        [
+            {
+                "cellId": 64,
+                "dateDay": 4,
+                "dateTime": "06.00 - 07.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 65,
+                "dateDay": 4,
+                "dateTime": "07.00 - 08.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 66,
+                "dateDay": 4,
+                "dateTime": "08.00 - 09.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 67,
+                "dateDay": 4,
+                "dateTime": "09.00 - 10.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 68,
+                "dateDay": 4,
+                "dateTime": "10.00 - 11.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 69,
+                "dateDay": 4,
+                "dateTime": "11.00 - 12.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 70,
+                "dateDay": 4,
+                "dateTime": "12.00 - 13.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 71,
+                "dateDay": 4,
+                "dateTime": "13.00 - 14.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 72,
+                "dateDay": 4,
+                "dateTime": "14.00 - 15.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 73,
+                "dateDay": 4,
+                "dateTime": "15.00 - 16.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 74,
+                "dateDay": 4,
+                "dateTime": "17.00 - 18.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 75,
+                "dateDay": 4,
+                "dateTime": "18.00 - 19.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 76,
+                "dateDay": 4,
+                "dateTime": "19.00 - 20.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 77,
+                "dateDay": 4,
+                "dateTime": "20.00 - 21.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 78,
+                "dateDay": 4,
+                "dateTime": "21.00 - 22.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 79,
+                "dateDay": 4,
+                "dateTime": "22.00 - 23.00",
+                "cellDataId": null,
+                "CellData": ""
+            }
+        ],
+        [
+            {
+                "cellId": 80,
+                "dateDay": 5,
+                "dateTime": "06.00 - 07.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 81,
+                "dateDay": 5,
+                "dateTime": "07.00 - 08.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 82,
+                "dateDay": 5,
+                "dateTime": "08.00 - 09.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 83,
+                "dateDay": 5,
+                "dateTime": "09.00 - 10.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 84,
+                "dateDay": 5,
+                "dateTime": "10.00 - 11.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 85,
+                "dateDay": 5,
+                "dateTime": "11.00 - 12.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 86,
+                "dateDay": 5,
+                "dateTime": "12.00 - 13.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 87,
+                "dateDay": 5,
+                "dateTime": "13.00 - 14.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 88,
+                "dateDay": 5,
+                "dateTime": "14.00 - 15.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 89,
+                "dateDay": 5,
+                "dateTime": "15.00 - 16.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 90,
+                "dateDay": 5,
+                "dateTime": "17.00 - 18.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 91,
+                "dateDay": 5,
+                "dateTime": "18.00 - 19.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 92,
+                "dateDay": 5,
+                "dateTime": "19.00 - 20.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 93,
+                "dateDay": 5,
+                "dateTime": "20.00 - 21.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 94,
+                "dateDay": 5,
+                "dateTime": "21.00 - 22.00",
+                "cellDataId": null,
+                "CellData": ""
+            },
+            {
+                "cellId": 95,
+                "dateDay": 5,
+                "dateTime": "22.00 - 23.00",
+                "cellDataId": null,
+                "CellData": ""
+            }
+        ]
+    ]
+}
